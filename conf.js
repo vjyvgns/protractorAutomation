@@ -17,7 +17,7 @@ exports.config = {
 
 	specs: ['./functional/logintest.spec.js'],
 
-	/*suites: {
+	suites: {
 
 			smoke: ['./smoke/!*.spec.js'],
 	//		regression: ['./regression/!*.spec.js'],
