@@ -17,16 +17,16 @@ exports.config = {
 
 	specs: ['./functional/logintest.spec.js'],
 
-	/*suites: {
+	suites: {
 
 			smoke: ['./smoke/!*.spec.js'],
-			regression: ['./regression/!*.spec.js'],
-			functional: ['./functional/!*.spec.js'],
-			all: ['./!*!/!*.spec.js'],
-			selected: ['./functional/addcustomer.spec.js','./regression/openaccount.spec.js'],
+	//		regression: ['./regression/!*.spec.js'],
+	//		functional: ['./functional/!*.spec.js'],
+	//		all: ['./!*!/!*.spec.js'],
+	//		selected: ['./functional/addcustomer.spec.js','./regression/openaccount.spec.js'],
 
 
-	},*/
+	},
 
 
 
